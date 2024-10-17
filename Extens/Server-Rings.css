@@ -1,3 +1,6 @@
+
+
+
 #app-mount .guilds_a4d4d9 [class*=pill] span { /* ! */
   transform: scale(1) !important;
 }
@@ -10,8 +13,7 @@
 :root {
   --server-unread-colour: 255, 255, 255;
   --server-hover-colour: 255, 255, 255;
-  --server-selected-colour: var(--accent, 0, 231, 169);
-  --server-spacing: 16px;
+  --server-selected-colour: var(--accent, 160, 32, 240);  --server-spacing: 16px;
   --server-glow-intensity: var(--glow-intensity, 1);
 
   --server-size: 48px;
